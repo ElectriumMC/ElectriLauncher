@@ -1,8 +1,8 @@
 {
     "name": "ElectriLauncher",
     "preductname": "ElectriLauncher",
-    "version": "1.0.4",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "version": "1.0.5",
+    "description": "Launcher Mincraft pour le serveur ElectriumMC",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, arthurgaming, Inc.",
