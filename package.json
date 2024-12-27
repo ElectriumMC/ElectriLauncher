@@ -1,7 +1,7 @@
 {
     "name": "ElectriLauncher",
     "preductname": "ElectriLauncher",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "https://electriummc.fr/ElectriLauncher",
+    "url": "https://electriummc.fr/ElectriLauncherV1",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
