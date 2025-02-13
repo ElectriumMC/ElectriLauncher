@@ -1,11 +1,11 @@
 {
     "name": "ElectriLauncher",
     "preductname": "ElectriLauncher",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Launcher Mincraft pour le serveur ElectriumMC",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, arthurgaming, Inc.",
+        "name": "luuxis, ArthurGaming, Inc.",
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
